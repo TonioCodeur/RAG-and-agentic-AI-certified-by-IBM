@@ -1,0 +1,11 @@
+# Dépendances directes du projet.
+# Installation : .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+
+# Appels au LLM (improve_prompt.py, tree_of_thoughts.py)
+openai==2.52.0
+python-dotenv==1.2.2
+
+# Piste RAG / agents (certification IBM) — LangChain v1, API create_agent
+langchain==1.3.14
+langchain-core==1.5.2
+langgraph==1.2.10
