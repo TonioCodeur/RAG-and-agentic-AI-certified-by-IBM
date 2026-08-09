@@ -142,4 +142,6 @@ Desktop.ini
 ehthumbs.db
 $RECYCLE.BIN/
 
+# Journaux de réponses des scripts
 output.md
+output_tree.md
